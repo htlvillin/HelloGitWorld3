@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Hello Git-Hub World");
         System.out.println("Guten Morgen");
+        System.out.println("Noel ist eine Katze");
     }
 }
