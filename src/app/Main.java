@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Guten Morgen");
         System.out.println("Noel ist eine Katze");
         System.out.println("G'day");
+        System.out.println("This bad boy is changing everything");
     }
 }
